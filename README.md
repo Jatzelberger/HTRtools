@@ -14,13 +14,15 @@
       - [pdf2png](https://github.com/Jatzelberger/HTRtools#pdf2png)
     - [Manipulation](https://github.com/Jatzelberger/HTRtools#manipulation)
       - [imageresize](https://github.com/Jatzelberger/HTRtools#imageresize)
+      - [mapping](https://github.com/Jatzelberger/HTRtools#mapping)
       - [suffixedit](https://github.com/Jatzelberger/HTRtools#suffixedit)
+      - [filenamecut](https://github.com/Jatzelberger/HTRtools#filenamecut)
 
 ## Setup
 Tested with Python 3.12.1
 ### Download
 ```shell
-git pull https://github.com/Jatzelberger/HTRtools
+git clone https://github.com/Jatzelberger/HTRtools
 ```
 ### Install Dependencies
 ```shell
